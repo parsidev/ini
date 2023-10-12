@@ -5,3 +5,4 @@ testdata/conf_reflect.ini
 .idea
 /.vscode
 .DS_Store
+go.sum
